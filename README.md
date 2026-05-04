@@ -9,6 +9,8 @@
 
 ### 4. Dameon Thread
 
+<h3>Daemon thread = “run in background, die with main thread”</h3>
+
 * A daemon thread is a background thread that runs to support other threads. It automatically stops when all user (main) threads finish.
 * 🔹 Key Idea
 Daemon thread runs in background
